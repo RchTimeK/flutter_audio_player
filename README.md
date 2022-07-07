@@ -1,6 +1,6 @@
-# rc_audio
+# rc_audio_player
 
-A new Flutter project.
+flutter的音频播放器
 
 ## Getting Started
 
